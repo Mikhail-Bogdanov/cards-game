@@ -13,8 +13,7 @@ dependencyResolutionManagement {
     }
 }
 
-//TODO CHANGE NAME
-rootProject.name = "Template"
+rootProject.name = "cards_game"
 include(":app")
 include(":data")
 include(":entryPoint")

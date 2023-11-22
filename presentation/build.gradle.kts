@@ -46,7 +46,6 @@ dependencies {
     implementation(Dependencies.Compose.ComposeIcons)
     implementation(Dependencies.Compose.ComposeViewModel)
     implementation(Dependencies.Compose.ComposeSystemUiController)
-    implementation(Dependencies.Compose.ComposeNavAnimationAccompanist)
     implementation(Dependencies.Compose.ComposeNavigation)
     implementation(Dependencies.Compose.ComposeAnimation)
     implementation(Dependencies.Compose.Material)
